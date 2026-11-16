@@ -1,0 +1,4 @@
+certutil -hashfile "C:\sharad-project\app/build.gradle.kts" MD5 
+certutil -hashfile "C:\sharad-project\build.gradle.kts" MD5 
+certutil -hashfile "C:\sharad-project\README.md" MD5 
+certutil -hashfile "C:\sharad-project\VERSION" MD5 
