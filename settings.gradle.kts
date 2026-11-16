@@ -1,0 +1,11 @@
+pluginManagement {
+  repositories {
+    gradlePluginPortal()
+    mavenCentral()
+    maven { url = "https://plugins.gradle.org/m2" }
+  }
+}
+
+rootProject.name = "Sharod-Vromon"
+
+include(":app")
